@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.com/hadimohandes/hadimohandes.github.io/blob/06d75e55c1e9648330d647a582c9fd1aa38ad2a1/images/1.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
