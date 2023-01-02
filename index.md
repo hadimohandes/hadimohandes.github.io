@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![Octocat](https://github.com/hadimohandes/hadimohandes.github.io/blob/06d75e55c1e9648330d647a582c9fd1aa38ad2a1/images/1.png)
 
 ### Large image
 
