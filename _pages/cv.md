@@ -21,28 +21,26 @@ Work experience
   * Tellext Inc
   * Software Team
 
-* 2022(Fall): Robotics Software Developer - Intern
-  * Clearpath/OTTO Motors
-  * Navigation Team
-  * Supervisor: Jason Mercer
+* 2016-2019: Robotics Software Developer 
+  * CEDRA lab
+  * AI Team
+  * Supervisor: Dr. Ali Meghdari, Dr. Alireza Taheri
 
-* 2022-2023: Computer Vision Researcher
+* 2016-2019: Robotics Software Developer 
+  * CEDRA lab
+  * AI Team
+  * Supervisor: Dr. Ali Meghdari, Dr. Alireza Taheri
+
+* 2022-2023: Computer Vision & Robotics Researcher
   * Simon Fraser University
   * Robotics Algorithms and Motion Planning LAB
-  * Supervisor: Prof. Kamal Gupta
-
-* 2022-2023: Autonomy Software Developer
-  * BEHPOO LTD
-  * Software Team
-  * Supervisor: Dr. Mohammad Akbar
+  * Supervisor: Prof. Kamal Gupta, Prof. Mehran Mehrandezh
   
 Skills
 ======
 * Programming Language
   * C/C++ (Professional)
   * Python (Professional)
-  * HTML (Professional)
-  * PHP (Familiar)
 * Frameworks & Tools & OS
   * Linux
   * GIT
@@ -67,7 +65,6 @@ Skills
   * BitBucket
 * Languages
   * English
-  * Kurdish
   * Persian
 
 Publications
