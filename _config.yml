@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Behnam Moradi / Personal Webpage"
+title                    : "Hadi Mohandes / Personal Webpage"
 title_separator          : "-"
-name                     : &name "Behnam Moradi"
+name                     : &name "Hadi Mohandes"
 description              : &description "personal description"
-url                      : https://Bmoradi93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hadimohandes.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Bmoradi93/Bmoradi93.github.io"
+repository               : "hadimohandes/hadimohandes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Behnam Moradi"
+  name             : "Hadi Mohandes"
   avatar           : "profile.png"
   bio              : "Robotic Software Developer, Navigation & Perception"
   location         : "British Columbia, Canada"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Bmoradi93"
+  github           : "hadimohandes"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Behnammoradi026"
+  twitter          : #"https://twitter.com/Behnammoradi026"
   vine             :
   weibo            :
   xing             :
