@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. Control Systems Engineering, K.N.T University of Technology, 2011-2016
-* M.S. in Industrial Systems Engineering(Robotics), University of Regina, 2020-2022
-* M.S. Researcher, Computer Vision Systems, Simon Fraser University, 2021-2023 
+* B.S. Mechanical Engineering, Sharif University of Technology, 2014-2019
+* M.S. Engineering Science (Robotics), Simon Fraser University, 2019-2022
+* M.S. Researcher, Computer Vision Systems, Simon Fraser University, 2022-2023 
 
 Work experience
 ======
-* 2020-2022: Robotics Software Developer- Inten & Part-Time
-  * Advanced Intelligent Systems Inc
+* 2022: Robotics Software Developer- Part-Time
+  * Tellext Inc
   * Software Team
-  * Supervisor: Dr. Behzad Samadi
 
 * 2022(Fall): Robotics Software Developer - Intern
   * Clearpath/OTTO Motors
