@@ -8,12 +8,4 @@ date: 2020-01-01
 location: "Regina, Canada"
 ---
 
-..
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
