@@ -26,9 +26,9 @@ Work experience
   * AI Team
   * Supervisor: Dr. Ali Meghdari, Dr. Alireza Taheri
 
-* 2016-2019: Robotics Software Developer 
+* 2016-2019: Robotics/Mechanical Engineer
   * CEDRA lab
-  * AI Team
+  * mechanical design Team
   * Supervisor: Dr. Ali Meghdari, Dr. Alireza Taheri
 
 * 2022-2023: Computer Vision & Robotics Researcher
@@ -41,6 +41,7 @@ Skills
 * Programming Language
   * C/C++ (Professional)
   * Python (Professional)
+ 
 * Frameworks & Tools & OS
   * Linux
   * GIT
@@ -59,6 +60,8 @@ Skills
   * Pytorch
   * LibTorch
   * C++ STL
+* Mechanical Design Softwares
+  * Solidworks (Professional)
 * Project Management Tools
   * Jira
   * Confluence
