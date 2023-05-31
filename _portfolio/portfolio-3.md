@@ -1,5 +1,5 @@
 ---
-title: "Mechanical design of Rasa robot, a platform for sign language "
+title: "Mechanical design of Rasa robot, a platform for sign language, Internship in CEDRA lab "
 excerpt: "<br/><img src='/images/portfolio-3.png'><br/>"
 collection: portfolio
 ---
