@@ -17,10 +17,19 @@ Education
 
 Work experience
 ======
-* 2022: Robotics Software Developer- Part-Time
+* Aug 2023 - : Robotics Software Developer- Internship
+  * DaoAi Robotics Inc
+  * Software Team
+  
+* Jan 2023 - April 2023: Robotics Software Developer- PartTime
   * Tellext Inc
   * Software Team
-
+  
+* Sep 2019-July 2023: Computer Vision & Robotics Researcher
+  * Simon Fraser University
+  * Robotics Algorithms and Motion Planning LAB
+  * Supervisor: Prof. Kamal Gupta, Prof. Mehran Mehrandezh
+  
 * 2016-2019: Robotics Software Developer 
   * CEDRA lab
   * AI Team
@@ -31,11 +40,7 @@ Work experience
   * mechanical design Team
   * Supervisor: Dr. Ali Meghdari, Dr. Alireza Taheri
 
-* 2022-2023: Computer Vision & Robotics Researcher
-  * Simon Fraser University
-  * Robotics Algorithms and Motion Planning LAB
-  * Supervisor: Prof. Kamal Gupta, Prof. Mehran Mehrandezh
-  
+
 Skills
 ======
 * Programming Language
