@@ -3,5 +3,8 @@ title: "Mechanical design of Rasa robot, a platform for sign language, Internshi
 excerpt: "<br/><img src='/images/portfolio-3.png'><br/>"
 collection: portfolio
 ---
-Participation in Mechanical design of RASA. Also developed AI pipleline for detecting some sign language words usign leap motion sensor.
+RASA robot was developed at CEDRA lab (Social Robtoics Lab) at Sharif University of Technology. The robot's purpose is to communiocate in sign language with deaf children. 
+My participation was to teleoperate the robot with wearable devices on my arm. 
+Also we were able to mimic the human fingers' movement in the robot by using leap motion and kinect sensor. 
+
 
