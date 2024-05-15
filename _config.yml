@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hadi Mohandes"
   avatar           : "profile_1.jpg"
-  bio              : "Robotic Software Developer, Navigation & Perception"
+  bio              : "Robotic Software Developer"
   location         : "British Columbia, Canada"
-  employer         :
+  employer         : "DAOAI Robotics Inc."
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=9tKTdWsAAAAJ&hl=en"
-  email            :
+  email            : "hadimohandes73@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : # "https://www.linkedin.com/in/behnam-moradi-7290"
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hadimohandes95/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
