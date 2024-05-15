@@ -2,7 +2,7 @@
 title: "A Torque+Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
 # excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
 # excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
-excerpt: "<br/><img src='/images/portfolio-1.png'><br/><img src='/images/another-image.png'><br/>"
+excerpt: "<br/><img src='/images/portfolio-1.png'><br/><img src='/images/portfolio-1.png'><br/>"
 
 collection: portfolio
 ---
