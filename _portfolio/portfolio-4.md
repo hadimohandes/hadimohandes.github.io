@@ -1,10 +1,16 @@
 ---
-title: "Mechanical design of Rasa robot, a platform for sign language, Internship in CEDRA lab "
-excerpt: "<br/><img src='/images/gif.gif'><br/>"
+title: "Omni-dirve Frisbee launcher robot for attendance in ROBOCON 2017, Japan "
+excerpt: "<br/><img src='/images/portfolio-2.png'><br/>"
 collection: portfolio
 ---
-RASA robot was developed at CEDRA lab (Social Robtoics Lab) at Sharif University of Technology. The robot's purpose is to communiocate in sign language with deaf children. 
-My participation was to help with design and fabrication of the robot. Also I teleoperated the robot with wearable devices on my arm, hand, and fingers. 
-We were able to mimic the human fingers' movement in the robot by using leap motion and kinect sensor and map the human movement to the robot.
 
-excerpt: "<br/><img src='/images/gif.gif'><br/>"
+In the second year of my undergraduate stduties, I was part of a robotic team which participated in ROBOCON 2017 in JAPAN. It was a fun project. 
+A frisbee launcher in a robotic platform was designed in Solidworks and fabricated to play against other robots. The whole robot consists of four main parts: 
+* 1- Omni‑directional moving base 
+* 2- Frisbee launcher system including mechanisms such as ball‑screw, pulley‑belt, and crank slider
+* 3- Arduino-based controller with use of different sensors and modules
+* 4- Autonomous Frisbee launching algorithm to modell the final location of the thrown disk based on control parameters of the launcher with MLP to throw the disks at certain points
+
+
+excerpt: "<br/><img src='/images/portfolio-2.png'><br/>"
+excerpt: "<br/><img src='/images/robocon-3.gif'><br/>"
