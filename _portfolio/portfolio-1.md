@@ -1,14 +1,15 @@
 ---
-title: "A Torque+Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
-# excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
-# excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
-excerpt: "<br/><img src='/images/portfolio-1.png'><br/><img src='/images/portfolio-1.png'><br/>"
+title: "Collision Free Optimized Motion Planning"
+excerpt: "<br/><img src='/images/real-robot.gif'><br/>"
 
 collection: portfolio
 ---
 
-Robot-to-human object handover is a complex task that requires accurate perception and planning. Sensor fusion approaches, which integrate data from multiple sensors, have been proposed to improve the accuracy and robustness of the handover process. Our algorithm relies on two complementary sensor modalities: joint torque sensors on the arm and an eye-in-hand RGB-D camera for sensor feedback. While the torque sensor network detects the human receiver's ``intention'' such as: pull, hold, or bump, the vision sensor network detects if the receiver's fingers have wrapped around the object. Networks' outputs are then fused, based on which a decision is made to either release the object or not.
+I have developed a collision-free path and trajectory planning algorithm for industrial robotic manipulators, such as the UR5, specifically for bin picking applications. This algorithm are versatile and applicable to multiple robotic manipulators with fewer than 7 degrees of freedom (DOF). I implemented a novel collision-free path planning method using Screw-axis path planning combined with IKFast. This approach achieves optimal end-effector movement and smooth motion with Cubic Spline trajectory generation, outperforming the high-level move commands of Universal Robots in terms of smoothness for executing trajectories with lot's of waypoints. Collaborating effectively with a team of four, I demonstrated strong teamwork and adaptability. Additionally, I developed a C++ API encapsulating collision-free path planning and trajectory generation algorithms for various industrial manipulators, including those from ABB, KUKA, Fanuc, Kinova, and Universal Robots. To ensure code reliability, I am developing unit tests to be executed on the C++ API using the Google Test framework. Furthermore, I am implementing CI/CD pipelines with GitLab and Jenkins to automate the build, test, and deployment processes, enhancing software quality and accelerating release cycles.
 
 
 
-
+excerpt: "<br/><img src='/images/sampled-1.gif'><br/>"
+excerpt: "<br/><img src='/images/sampled-2.gif'><br/>"
+excerpt: "<br/><img src='/images/sim.gif'><br/>"
+excerpt: "<br/><img src='/images/real-robot.gif'><br/>"
