@@ -12,5 +12,5 @@ A frisbee launcher in a robotic platform was designed in Solidworks and fabricat
 * 4- Autonomous Frisbee launching algorithm to modell the final location of the thrown disk based on control parameters of the launcher with MLP to throw the disks at certain points
 
 
-excerpt: "<br/><img src='/images/portfolio-2.png'><br/>"
-excerpt: "<br/><img src='/images/robocon-3.gif'><br/>"
+"<br/><img src='/images/portfolio-2.png'><br/>"
+"<br/><img src='/images/robocon-3.gif'><br/>"

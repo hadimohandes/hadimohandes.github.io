@@ -9,7 +9,7 @@ I have developed a collision-free path and trajectory planning algorithm for ind
 
 
 
-excerpt: "<br/><img src='/images/sampled-1.gif'><br/>"
-excerpt: "<br/><img src='/images/sampled-2.gif'><br/>"
-excerpt: "<br/><img src='/images/sim.gif'><br/>"
-excerpt: "<br/><img src='/images/real-robot.gif'><br/>"
+"<br/><img src='/images/sampled-1.gif'><br/>"
+"<br/><img src='/images/sampled-2.gif'><br/>"
+"<br/><img src='/images/sim.gif'><br/>"
+"<br/><img src='/images/real-robot.gif'><br/>"
