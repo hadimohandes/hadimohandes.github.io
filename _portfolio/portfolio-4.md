@@ -1,5 +1,5 @@
 ---
-title: "Omni-dirve Frisbee launcher robot for attendance in ROBOCON 2017, Japan - **click here for more info** "
+title: "Frisbee launcher robot- ROBOCON 2017- **click here for more info** "
 excerpt: "<br/><img src='/images/portfolio-2.png'><br/>"
 collection: portfolio
 ---
