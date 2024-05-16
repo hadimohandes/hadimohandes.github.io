@@ -1,5 +1,5 @@
 ---
-title: "Test and design of Rasa robot, a platform for sign language, Internship in CEDRA lab "
+title: "Test and design of Rasa robot, a platform for sign language, Internship in CEDRA lab - **click here for more info**"
 excerpt: "<br/><img src='/images/portfolio-3.png'><br/>"
 collection: portfolio
 ---

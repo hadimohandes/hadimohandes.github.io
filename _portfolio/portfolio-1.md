@@ -1,5 +1,5 @@
 ---
-title: "Collision Free Optimized Motion Planning"
+title: "Collision Free Optimized Motion Planning - **click here for more info**"
 excerpt: "<br/><img src='/images/real-robot.gif'><br/>"
 
 collection: portfolio

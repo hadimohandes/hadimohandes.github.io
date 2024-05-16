@@ -1,5 +1,5 @@
 ---
-title: "A Torque+Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks"
+title: "A Torque+Vision-Based Algorithm to Hnadle Robot to Human Object Handover Tasks - **click here for more info**"
 
 excerpt: "<br/><img src='/images/portfolio-1.png'><br/>"
 
